@@ -1,0 +1,18 @@
+[submodule "dependencies/BaseMod"]
+	path = dependencies/BaseMod
+	url = git@github.com:pcastanedav/BaseMod.git
+[submodule "dependencies/StSLib"]
+	path = dependencies/StSLib
+	url = git@github.com:pcastanedav/StSLib.git
+[submodule "dependencies/ModTheSpire"]
+	path = dependencies/ModTheSpire
+	url = git@github.com:pcastanedav/ModTheSpire.git
+[submodule "dependencies/STSStateSaver"]
+	path = dependencies/STSStateSaver
+	url = git@github.com:pcastanedav/STSStateSaver.git
+[submodule "dependencies/LudicrousSpeed"]
+	path = dependencies/LudicrousSpeed
+	url = git@github.com:pcastanedav/LudicrousSpeed.git
+[submodule "dependencies/scumthespire"]
+	path = dependencies/scumthespire
+	url = git@github.com:pcastanedav/scumthespire.git

@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+
+scriptdir="$(dirname "$(readlink -f "$0")")"
+cd "$scriptdir/../"
+
+STS_FAMILIAR_ROOT="$(pwd)"
+libdir="$STS_FAMILIAR_ROOT/dependencies/lib"
+
+mkdir -p "$libdir"
+
+echo "$STS_FAMILIAR_ROOT"
